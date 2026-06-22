@@ -1,0 +1,7 @@
+MLOps practices help move AI systems from prototype to production.
+
+For a RAG application, useful MLOps practices include version control, testing, CI/CD, Docker packaging, environment configuration, logging, evaluation datasets, and rollback planning.
+
+The system should be easy to run, easy to test, and easy to improve.
+
+A clean project structure also helps other engineers understand and maintain the work.

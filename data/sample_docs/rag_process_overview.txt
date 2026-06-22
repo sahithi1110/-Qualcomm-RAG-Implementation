@@ -1,0 +1,5 @@
+A Retrieval-Augmented Generation workflow includes document ingestion, text cleaning, chunking, embedding generation, vector indexing, semantic retrieval, prompt building, grounded answer generation, and evaluation.
+
+The process starts by loading approved documents. The documents are cleaned and split into smaller chunks. Each chunk is converted into an embedding and stored in a vector database.
+
+When a user asks a question, the system retrieves relevant chunks and uses those chunks as context. This reduces the need for full model retraining because new knowledge can be added through the document pipeline.

@@ -1,0 +1,7 @@
+Enterprise AI systems must protect sensitive information.
+
+A RAG system should retrieve content only from approved knowledge sources. It can use access controls, source metadata, audit logs, and role-based filters to make sure users only see information they are allowed to access.
+
+Secrets, personal data, internal credentials, and private customer information should not be placed in public repositories.
+
+This project uses only sample data for safe demonstration.

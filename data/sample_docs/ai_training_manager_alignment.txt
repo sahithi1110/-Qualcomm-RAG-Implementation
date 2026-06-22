@@ -1,0 +1,5 @@
+For an AI Training Manager or AI quality role, the RAG project supports quality review, process improvement, model evaluation, and response monitoring.
+
+The project shows how AI outputs can be checked against source documents. It also shows how evaluation queries can be used to measure whether the system retrieves the correct information.
+
+This type of workflow supports better AI training, safer response behavior, and stronger quality control for enterprise AI use cases.

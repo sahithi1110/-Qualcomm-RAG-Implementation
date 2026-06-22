@@ -1,0 +1,7 @@
+Model monitoring helps keep AI systems reliable after deployment.
+
+For a RAG system, monitoring should include query latency, failed retrieval cases, missing source matches, low-confidence answers, user feedback, and repeated hallucination patterns.
+
+Monitoring also helps detect document gaps. If users keep asking questions that cannot be answered from available documents, the knowledge base may need to be updated.
+
+Regular monitoring supports safer and more stable enterprise AI usage.

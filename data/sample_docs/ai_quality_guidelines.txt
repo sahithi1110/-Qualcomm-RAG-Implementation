@@ -1,0 +1,7 @@
+AI quality guidelines focus on accuracy, relevance, safety, traceability, and clear source grounding.
+
+A RAG pipeline helps reduce hallucinations by retrieving approved internal context before preparing an answer. The system should avoid guessing when the answer is not available in the retrieved context.
+
+A good quality process checks whether the answer is supported by source documents. It also reviews response accuracy, missed retrieval cases, user feedback, and repeated failure patterns.
+
+The final goal is to make AI answers more trustworthy for enterprise users.

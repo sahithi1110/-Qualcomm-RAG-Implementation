@@ -1,0 +1,7 @@
+Prompt design is important in a RAG workflow.
+
+A good prompt should clearly tell the model to use only the retrieved context. If the answer is not available in the context, the model should say that the information is not available.
+
+The prompt should include the user question, retrieved context, source references, and answer instructions.
+
+This helps reduce guessing and improves answer consistency.

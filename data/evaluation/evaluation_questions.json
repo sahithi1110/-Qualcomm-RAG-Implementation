@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How does the RAG system reduce hallucinations?",
+    "expected_source": "ai_quality_guidelines.txt"
+  },
+  {
+    "question": "What are the main steps in a Retrieval-Augmented Generation workflow?",
+    "expected_source": "rag_process_overview.txt"
+  },
+  {
+    "question": "What should be monitored in a production RAG system?",
+    "expected_source": "model_monitoring_notes.txt"
+  },
+  {
+    "question": "How can enterprise AI systems protect sensitive data?",
+    "expected_source": "enterprise_security_notes.txt"
+  },
+  {
+    "question": "What should a RAG prompt tell the model to do?",
+    "expected_source": "prompt_engineering_guidelines.txt"
+  },
+  {
+    "question": "What MLOps practices help deploy a RAG application?",
+    "expected_source": "mlops_deployment_notes.txt"
+  },
+  {
+    "question": "How does this project support an AI Training Manager role?",
+    "expected_source": "ai_training_manager_alignment.txt"
+  }
+]

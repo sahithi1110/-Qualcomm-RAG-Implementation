@@ -1,0 +1,19 @@
+project:
+  name: Enterprise RAG LLM Quality Evaluation
+  version: 1.0.0
+
+paths:
+  sample_docs_dir: data/sample_docs
+  evaluation_file: data/evaluation/evaluation_questions.json
+  chunk_output_file: outputs/chunks.jsonl
+  evaluation_output_file: outputs/evaluation_results.json
+  vector_store_path: chroma_store
+
+rag:
+  chunk_size: 550
+  chunk_overlap: 90
+  top_k: 5
+  collection_name: enterprise_rag_collection
+
+embedding:
+  model_name: all-MiniLM-L6-v2
